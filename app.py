@@ -5,4 +5,6 @@ def greet(name):
 
 print("Hello, Git!")
 greet("홍길동")
-print("debug")
+
+def login(id_str, pw):
+    print("Hello")
